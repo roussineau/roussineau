@@ -28,4 +28,4 @@ I am most comfortable in Unix-like environments and prefer tools that offer real
 
 ---
 
-[📫 Contact](mailto:santirouss@gmail.com) | [🌐 LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/roussineau/))
+[📫 Contact](mailto:santirouss@gmail.com) | [🌐 LinkedIn]([https://www.linkedin.com/in/roussineau/])
