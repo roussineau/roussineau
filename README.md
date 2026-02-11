@@ -1,16 +1,16 @@
-### Hi there
+### Profile
 
-I am a **Computer Science Student** with a strong focus on understanding how systems work "under the hood." My passion lies in low-level programming, resource optimization, fundamentals of AI, and videogames.
+**Computer Science Student** with a strong focus on understanding how systems work "under the hood". Low-level programming, resource optimization, fundamentals of AI, and videogames.
 
 ---
 
-### 🔧 What I'm Building
+### 🔧 Currently building
 
-I am currently bridging my interests in **Systems** and **AI**:
+Merging my interests of **systems**, **optimization** and **AI**:
 
-* 🧠 **LLM from Scratch in C**: Building a lightweight Language Model entirely in C, without external ML libraries.
+* 🧠 **LLM from scratch in C**: Building a lightweight Language Model (Toy Language Model) entirely in C, without external ML libraries.
     * *Focus:* Manual memory management, custom ASCII tokenizer implementation, embeddings, and raw logit calculations (`logit = W.h + b`).
-    * *Goal:* To understand Transformer architecture at the bit and pointer level.
+    * *Goal:* To understand Transformer architecture at the bit and pointer level, and get fascinated with the maths behind ML.
 
 * 🎮 **Godot Optimization / Game Dev**: Developing efficient simulations and game mechanics.
     * *Current Project:* **3D Flocking Simulation** optimized with a custom *Spatial Grid* to handle thousands of entities, replacing expensive standard physics collisions.
@@ -19,7 +19,7 @@ I am currently bridging my interests in **Systems** and **AI**:
 
 ### 🛠️ Tools & Stack
 
-I am most comfortable in Unix-like environments and prefer tools that offer total control and strong type systems.
+I am most comfortable in Unix-like environments and prefer tools that offer real control and strong type systems.
 
 | Core | Game Dev | Environment |
 | :--- | :--- | :--- |
