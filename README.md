@@ -24,7 +24,7 @@ I am most comfortable in Unix-like environments and prefer tools that offer real
 | Core | Game Dev | Environment |
 | :--- | :--- | :--- |
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) **C** | ![Godot Engine](https://img.shields.io/badge/Godot_Engine-%23FFFFFF.svg?style=flat&logo=godot-engine&logoColor=%23478cbf) **Godot 4** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) **Linux** |
-| ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white) **Haskell** | **GDScript** | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white) **NeoVim** / **Zsh** |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) **C++** | **GDScript** | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white) **NeoVim** / **Zsh** |
 
 ---
 
