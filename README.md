@@ -1,4 +1,4 @@
-### Profile
+# Welcome to my profile
 
 **Computer Science Student** with a strong focus on understanding how systems work "under the hood". Low-level programming, resource optimization, fundamentals of AI, and videogames.
 
@@ -9,7 +9,7 @@
 Merging my interests of **systems**, **optimization** and **AI**:
 
 * 🧠 **LLM from scratch in C**: Building a lightweight Language Model (Toy Language Model) entirely in C, without external ML libraries.
-    * *Focus:* Manual memory management, custom ASCII tokenizer implementation, embeddings, and raw logit calculations (`logit = W.h + b`).
+    * *Focus:* Manual memory management, custom ASCII tokenizer implementation, embeddings, and raw logit calculations.
     * *Goal:* To understand Transformer architecture at the bit and pointer level, and get fascinated with the maths behind ML.
 
 * 🎮 **Godot Optimization / Game Dev**: Developing efficient simulations and game mechanics.
