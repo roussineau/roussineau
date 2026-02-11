@@ -1,6 +1,6 @@
-# Welcome to my profile
+# Hello, world
 
-**Computer Science Student** with a strong focus on understanding how systems work "under the hood". Low-level programming, resource optimization, fundamentals of AI, and videogames.
+I am a **Computer Science Student** with a strong focus on understanding how systems work "under the hood": low-level programming, resource optimization, fundamentals of AI, and videogames.
 
 ---
 
