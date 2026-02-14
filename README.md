@@ -1,6 +1,6 @@
 # Hello world
 
-I am a **Computer Science Student** with a strong focus on understanding how systems work "under the hood": low-level programming, resource optimization, fundamentals of AI, and videogames.
+I am a **Computer Science Student** who likes to (try to) understand how systems work "under the hood": low-level programming, resource optimization, fundamentals of AI, and videogames.
 
 ---
 
